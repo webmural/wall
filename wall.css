@@ -1,0 +1,25 @@
+@media (color) {
+  :root {
+    background: seashell;
+    color: #123;
+  }
+
+  ::selection {
+    background: aqua;
+    color: #111;
+  }
+
+  :link,
+  :visited {
+    color: #808;
+  }
+
+  :focus {
+    outline-color: #505;
+  }
+}
+
+:root {
+  font-family: sans-serif;
+  font-size: calc(1em + 1vmin);
+}
