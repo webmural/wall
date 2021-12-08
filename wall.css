@@ -3,7 +3,7 @@
   font-size: calc(1em + 2vmin + 2vmax);
 }
 
-:link {
+:any-link {
   font-size: max(1rem, 44px);
 }
 
