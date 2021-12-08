@@ -3,6 +3,10 @@
   font-size: calc(1em + 2vmin + 2vmax);
 }
 
+:link {
+  font-size: max(1rem, 44px);
+}
+
 :focus {
   outline-style: dashed;
   outline-width: thick;
